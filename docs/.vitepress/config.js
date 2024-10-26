@@ -2,14 +2,12 @@ export default {
   title: 'Odyssey Exchange',
   description: 'Your Trusted Centralized Cryptocurrency Exchange',
   themeConfig: {
-    logo: '/images/ODY-35.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about' },
       { text: 'Services', link: '/services' },
       { text: 'Partnership', link: '/partnership' },
       { text: 'Solutions', link: '/solutions' },
-      { text: 'Features', link: '/features' },
       { text: 'Contact', link: '/contact' }
     ],
     sidebar: [
@@ -23,11 +21,8 @@ export default {
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/odysseyexchange' },
+      { icon: 'discord', link: 'https://t.me/odyssey' },
       { icon: 'twitter', link: 'https://twitter.com/odysseyexchange' }
     ]
-  },
-  head: [
-    ['link', { rel: 'icon', href: '/images/ODY-35.png' }]
-  ]
+  }
 }

@@ -68,6 +68,11 @@
 
 .VPImage.image-src {
   max-width: 300px;
+  cursor: pointer;
+}
+
+.VPImage.image-src:hover {
+  opacity: 0.9;
 }
 
 /* Site Title */
@@ -92,7 +97,7 @@
   text-decoration: none;
 }
 
-/* Rest of the styles remain the same */
+/* Rest of the styles */
 .why-choose-section {
   padding: 2rem 1rem;
   margin: 2rem 0;

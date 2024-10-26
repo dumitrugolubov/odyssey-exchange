@@ -5,8 +5,9 @@ hero:
   text: Empowering Your Crypto Projects
   tagline: Partner with a Leading Centralized Cryptocurrency Exchange
   image:
-    src: /images/ODY-35.png
+    src: /images/hero.png
     alt: Odyssey Exchange
+    link: https://odyk.lol
   actions:
     - theme: brand
       text: Explore Partnership
@@ -76,5 +77,5 @@ features:
 <div class="cta-section">
   <h2>Ready to Elevate Your Crypto Projects?</h2>
   <p>Join forces with Odyssey Exchange and unlock new possibilities in the world of cryptocurrency.</p>
-  <a href="https://odyssey.exchange" target="_blank" rel="noopener noreferrer" class="cta-button">Go to Odyssey.Exchange</a>
+  <a href="https://odyk.lol" target="_blank" rel="noopener noreferrer" class="cta-button">Go to Odyssey.Exchange</a>
 </div>
