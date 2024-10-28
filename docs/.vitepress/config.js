@@ -1,6 +1,6 @@
 export default {
   title: 'Odyssey Exchange',
-  description: 'Your Trusted Centralized Cryptocurrency Exchange',
+  description: 'The First Exchange Focused on Memecoin Trading & Investment',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },

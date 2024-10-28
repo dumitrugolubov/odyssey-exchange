@@ -80,5 +80,5 @@ features:
 <div class="cta-section">
   <h2>Ready to Elevate Your Crypto Projects?</h2>
   <p>Join forces with Odyssey Exchange and unlock new possibilities in the world of cryptocurrency.</p>
-  <a href="https://odyssey.trade/register?inviteCode=EAATH" target="_blank" rel="noopener noreferrer" class="cta-button">Go to Odyssey.Exchange</a>
+  <a href="https://odyssey.trade/register?inviteCode=EAATH" target="_blank" rel="noopener noreferrer" class="cta-button">Go to Odyssey Exchange</a>
 </div>

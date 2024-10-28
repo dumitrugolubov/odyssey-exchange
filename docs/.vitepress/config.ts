@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "Odyssey Exchange",
-  description: "Your Trusted Centralized Cryptocurrency Exchange",
+  description: "The First Exchange Focused on Memecoin Trading & Investment",
   themeConfig: {
     siteTitle: 'Odyssey Exchange Bussiness Solutions',
     nav: [
