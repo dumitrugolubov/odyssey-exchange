@@ -1,6 +1,6 @@
-# Getting Started with YourCEX
+# Getting Started with Odyssey Exchange
 
-Welcome to YourCEX! This guide will help you get started with our platform.
+Welcome to Odyssey Exchange! This guide will help you get started with our platform.
 
 ## 1. Create an Account
 

@@ -21,7 +21,7 @@ export default {
       }
     ],
     socialLinks: [
-      { icon: 'discord', link: 'https://t.me/odyssey' },
+      { icon: 'twitter', link: 'https://t.me/odyssey' },
       { icon: 'twitter', link: 'https://twitter.com/odysseyexchange' }
     ]
   }

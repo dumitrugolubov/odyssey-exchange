@@ -2,9 +2,9 @@
 import { ref, onMounted } from 'vue'
 
 const testimonials = [
-  { id: 1, text: "Odyssey Exchange has revolutionized our crypto business. Their white-label solution is top-notch!", author: "Jane Doe, CEO of CryptoTech" },
-  { id: 2, text: "The liquidity provision from Odyssey Exchange has significantly improved our trading volumes.", author: "John Smith, Founder of TradeCoin" },
-  { id: 3, text: "Their regulatory compliance support has been invaluable in navigating the complex crypto landscape.", author: "Alice Johnson, Legal Advisor at BlockChain Inc." }
+{ id: 1, text: "Thanks to Odyssey Exchange's expertise, our token listing was completed in record time. Their support team is exceptional!", author: "Michael Chen, CEO of TokenTech" },
+{ id: 2, text: "Odyssey Exchange's launchpad features provided everything we needed for our IDO. The interface is user-friendly and secure.", author: "Sarah Williams, Co-founder of CryptoStart" },
+{ id: 3, text: "The multi-tier referral system at Odyssey Exchange is a game-changer. Our community grew exponentially within weeks.", author: "David Miller, Growth Lead at BlockStart" }
 ]
 
 const currentTestimonial = ref(0)
@@ -27,7 +27,7 @@ onMounted(() => {
     <div class="testimonial">
       <p>"{{ testimonials[currentTestimonial].text }}"</p>
       <p class="author">- {{ testimonials[currentTestimonial].author }}</p>
-    </div>
+      </div>
     <div class="controls">
       <button @click="prevTestimonial">&lt;</button>
       <button @click="nextTestimonial">&gt;</button>

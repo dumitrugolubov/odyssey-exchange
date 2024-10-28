@@ -12,10 +12,8 @@ At Odyssey Exchange, we offer a comprehensive suite of services to meet all your
 
 5. **OTC Trading**: Execute large trades with personalized service and competitive rates.
 
-6. **Fiat Gateway**: Easily deposit and withdraw fiat currencies.
+6. **Mobile App**: Trade on-the-go with our user-friendly mobile application.
 
-7. **Mobile App**: Trade on-the-go with our user-friendly mobile application.
-
-8. **API Access**: Integrate our platform with your trading bots and algorithms.
+7. **API Access**: Integrate our platform with your trading bots and algorithms.
 
 Choose Odyssey Exchange for a complete and professional trading experience!
