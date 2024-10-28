@@ -21,8 +21,8 @@ export default {
       }
     ],
     socialLinks: [
-      { icon: 'twitter', link: 'https://t.me/odyssey' },
-      { icon: 'twitter', link: 'https://twitter.com/odysseyexchange' }
+      { icon: 'twitter', link: 'https://t.me/t_dmi3' },
+      { icon: 'twitter', link: 'https://twitter.com/t_dmi3' }
     ]
   }
 }

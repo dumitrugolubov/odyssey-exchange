@@ -4,7 +4,7 @@ export default defineConfig({
   title: "Odyssey Exchange",
   description: "Your Trusted Centralized Cryptocurrency Exchange",
   themeConfig: {
-    siteTitle: 'Odyssey Exchange',
+    siteTitle: 'Odyssey Exchange Bussiness Solutions',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about' },
@@ -37,9 +37,9 @@ export default defineConfig({
             </g>
           </svg>`
         },
-        link: 'https://t.me/odyssey'
+        link: 'https://t.me/t_dmi3'
       },
-      { icon: 'youtube', link: 'https://t.me/odyyseyy' }
+      { icon: 'youtube', link: 'https://t.me/t_dmi3' }
     ]
   },
   head: [
@@ -49,7 +49,7 @@ export default defineConfig({
         const siteTitle = document.querySelector('.VPNavBarTitle');
         if (siteTitle) {
           const link = document.createElement('a');
-          link.href = 'https://odyk.lol';
+          link.href = 'https://odyssey.trade/register?inviteCode=EAATH';
           link.target = '_blank';
           link.rel = 'noopener noreferrer';
           link.style.textDecoration = 'none';
