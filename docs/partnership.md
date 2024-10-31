@@ -26,7 +26,7 @@ At Odyssey Exchange, we believe in the power of collaboration. Our partnership p
 
 ## Benefits of Partnering with Odyssey Exchange
 
-- **Rapid Time-to-Market**: Launch your crypto business quickly with our turnkey solutions.
+- **Rapid Time-to-Market**: Launch your crypto projects quickly with our turnkey solutions.
 - **Regulatory Compliance**: Benefit from our established compliance framework.
 - **24/7 Support**: Dedicated account managers and round-the-clock technical support.
 - **Scalability**: Our infrastructure is designed to handle high-volume trading and grow with your business.

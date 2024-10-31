@@ -3,7 +3,7 @@ layout: home
 hero:
   name: Odyssey Exchange
   text: Empowering Your Crypto Projects
-  tagline: Partner with a Leading Centralized Cryptocurrency Exchange
+  tagline: Partner with world's first exchange focused on meme tokens
   image:
     src: /images/hero.png
     alt: Odyssey Exchange
