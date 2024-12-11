@@ -8,7 +8,7 @@ hero:
     src: /images/hero.png
     alt: Odyssey Exchange
   actions:
-      - theme: brand
+    - theme: brand
       text: Go to Exchange
       link: https://odyssey.trade/register?inviteCode=EAATH
     - theme: alt
