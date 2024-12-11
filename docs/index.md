@@ -8,15 +8,12 @@ hero:
     src: /images/hero.png
     alt: Odyssey Exchange
   actions:
-    - theme: brand
-      text: Explore Partnership
-      link: /partnership
-    - theme: alt
-      text: View Solutions
-      link: /solutions
-    - theme: alt
+      - theme: brand
       text: Go to Exchange
       link: https://odyssey.trade/register?inviteCode=EAATH
+    - theme: alt
+      text: Partner with us
+      link: /partnership
 features:
   - icon:       💎
     title: Start Your Journey
