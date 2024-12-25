@@ -1,5 +1,5 @@
 export default {
-  title: 'Odyssey Exchange',
+  title: 'Odyssey Exchange | Memecoin Trade Exchange',
   description: 'The First Exchange Focused on Memecoin Trading & Investment',
   themeConfig: {
     nav: [
